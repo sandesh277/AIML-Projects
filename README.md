@@ -1,4 +1,4 @@
-# AIML-Projects
+# Artifical Intelligence and Machine Learning-Projects
 Course projects completed during PGP -Artificial Intelligence and Machine Learning at Great Learning
 
 
