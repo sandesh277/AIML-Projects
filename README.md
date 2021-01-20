@@ -11,8 +11,8 @@ This project used Hypothesis Testing and Visualization to leverage customer's he
 
 # [Project2: Supervised Machine Learning: Project Overview](https://github.com/sandesh277/AIML-Projects/tree/main/02-Supervised-Learning)
 
-•	Objective: The classification goal was to predict the likelihood of a liability customer buying personal loans
-•	Covers Multiple Variable Linear regression, Logistic regression, Naive Bayes classifiers, Multiple regression, K-NN classification, Support vector machines
+* Objective: The classification goal was to predict the likelihood of a liability customer buying personal loans
+* Covers Multiple Variable Linear regression, Logistic regression, Naive Bayes classifiers, Multiple regression, K-NN classification, Support vector machines
 •	Identified potential loan customers for Thera Bank using classification techniques. Compared models built with Logistic Regression and KNN algorithm in order to select the best performing one
 •	Predicted the possibility that a customer will buy a personal loan or not 
 •	Exploratory data analysis using matplotlib and seaborn libraries 
