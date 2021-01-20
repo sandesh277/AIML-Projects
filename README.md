@@ -2,7 +2,7 @@
 Course projects completed during PGP -Artificial Intelligence and Machine Learning at Great Learning
 
 
-# Project1 Statistical Learning: Project Overview
+# Project1: Statistical Learning: Project Overview
 
 Covers Descriptive Statistics, Probability & Conditional Probability, Hypothesis Testing, Inferential Statistics, Probability Distributions, Types of distribution and Binomial, Poisson & Normal distribution.
 Project link: Applied Stats
